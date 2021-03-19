@@ -1,5 +1,5 @@
 # Simulation-Of-Self-Driving-Car-Using-Deep-Learning
 
 
-![Alt text](https://raw.github.com/saurabh-m-w/Simulation-Of-Self-Driving-Car-Using-Deep-Learning/main/screenshot1.jpeg)
-![Alt text](https://raw.github.com/saurabh-m-w/Simulation-Of-Self-Driving-Car-Using-Deep-Learning/main/screenshot2.Jpeg)
+![Alt text](https://raw.githubusercontent.com/saurabh-m-w/Simulation-Of-Self-Driving-Car-Using-Deep-Learning/master/Screenshots/screenshot1.jpeg)
+![Alt text](https://raw.githubusercontent.com/saurabh-m-w/Simulation-Of-Self-Driving-Car-Using-Deep-Learning/master/Screenshots/screenshot2.jpeg)
